@@ -10,4 +10,4 @@ Authors: Sonja J. Fenske, Janelle Liu, Haitao Chen, Marcio A. Diniz, Rebecca L. 
 
 Note: The code found in this directory is not intended to be directly applied to new applications and is shared as a basic reference for the analysis conducted for this paper
 
-Definitions to code names and pipeline diagram can be found in the attached document: code_guide.pdf
+Definitions to code names can be found in the attached document: code_guide.pdf
